@@ -1,0 +1,12 @@
+name: PGCICalculator
+title: PGCICalculator
+username:
+account: tombelanger
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3548038
+bundleId: 4158393
+url: https://tombelanger.shinyapps.io/PGCICalculator/
+when: 1611941484.45387
+asMultiple: FALSE
+asStatic: FALSE
